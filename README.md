@@ -15,7 +15,7 @@ Utilities for building agentic AI systems with structured outputs in Deno.
 deno add @deno-agent/utils
 ```
 
-## Usafe
+## Usage
 
 ```typescript
 import { completeWithSchema } from "@your-username/ai-utils"
