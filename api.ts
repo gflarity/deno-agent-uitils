@@ -1,4 +1,4 @@
-import OpenAI from "jsr:@openai/openai"
+import OpenAI from "jsr:@openai/openai@4.85.4"
 
 /**
  * Performs a completion using the provided schema, system prompt, and user prompt.
